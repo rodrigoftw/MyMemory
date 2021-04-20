@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quit_game">Deseja sair do jogo?</string>
+    <string name="fetch_memory_game">Buscar jogo de memória</string>
+    <string name="create_memory_game">Criar seu próprio tabuleiro</string>
+    <string name="choose_size">Escolha um novo tamanho</string>
+    <string name="cancel">Cancelar</string>
+    <string name="ok">OK</string>
+    <string name="easy">Fácil: 4 x 2</string>
+    <string name="medium">Médio: 6 x 3</string>
+    <string name="hard">Difícil: 6 x 4</string>
+    <string name="easyPairs">Pares: 0 / 4</string>
+    <string name="mediumPairs">Pares: 0 / 9</string>
+    <string name="hardPairs">Pares: 0 / 12</string>
+    <string name="you_already_won">Você já venceu!</string>
+    <string name="invalid_move">Jogada inválida!</string>
+    <string name="permission_denied_message">Para criar um jogo customizado, você precisa permitir o acesso às suas fotos.</string>
+    <string name="name_already_exists">Nome já existe!</string>
+    <string name="could_not_find_game">Desculpe, não achamos nenhum jogo chamado \'%s\'.</string>
+    <string name="you_are_playing">Agora você está jogando \'%s\'!</string>
+    <string name="found_match">Achou um par! Número de pares encontrados</string>
+    <string name="pairs">Pares: %d / %d</string>
+    <string name="moves">Jogadas: %d</string>
+    <string name="you_won">Você venceu! Parabéns!</string>
+    <string name="choose_pictures">Escolha fotos (%d / %d)</string>
+    <string name="game_already_exists">Já existe um jogo com o nome \'%s\'. Por favor escolha outro nome.</string>
+    <string name="saving_error_exception">Erro ao salvar jogo da memória</string>
+    <string name="image_upload_failure">Falha ao fazer upload da imagem. Por favor, tente novamente</string>
+    <string name="game_creation_failure">Falha ao criar o jogo. Por favor, tente novamente</string>
+    <string name="game_creation_success">Upload completo! Vamos jogar seu jogo \'%s\'!</string>
+    <string name="choose_pictures_placeholder">Escolha fotos</string>
+    <string name="menu_refresh">Recarregar</string>
+    <string name="menu_choose_new_size">Escolher novo tamanho</string>
+    <string name="menu_create_custom_game">Criar um jogo customizado</string>
+    <string name="menu_download_custom_game">Baixar um jogo customizado</string>
+    <string name="game_name_placeholder">Nome do jogo (exemplo: \'panda_divertido\')</string>
+    <string name="save_text">Salvar</string>
+    <string name="pairs_placeholder">Pares: 0 / 4</string>
+    <string name="moves_placeholder">Jogadas: 0</string>
+    <string name="easy_placeholder">Fácil (4 x 2)</string>
+    <string name="medium_placeholder">Médio (6 x 3)</string>
+    <string name="hard_placeholder">Difícil (6 x 4)</string>
+    <string name="game_name_title">Insira o nome do jogo</string>
+    <string name="image_card">Cartão de memória</string>
+    <string name="cannot_be_blank">O nome do jogo não pode ser vazio.</string>
+</resources>

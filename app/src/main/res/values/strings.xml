@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name" translatable="false">My Memory</string>
+    <string name="quit_game">Quit your current game?</string>
+    <string name="fetch_memory_game">Fetch memory game</string>
+    <string name="could_not_find_game">Sorry, we couldn\'t find any game named \'%s\'.</string>
+    <string name="cannot_be_blank">Game name can\'t be blank.</string>
+    <string name="you_are_playing">You\'re now playing \'%s\'!</string>
+    <string name="create_memory_game">Create your own memory board</string>
+    <string name="choose_size">Choose a new size</string>
+
+    <string name="pairs_placeholder">Pairs: 0 / 4</string>
+    <string name="moves_placeholder">Moves: 0</string>
+
+    <string name="easy_placeholder">Easy (4 x 2)</string>
+    <string name="medium_placeholder">Medium (6 x 3)</string>
+    <string name="hard_placeholder">Hard (6 x 4)</string>
+
+    <string name="pairs">Pairs: %d / %d</string>
+    <string name="moves">Moves: %d</string>
+
+    <string name="easy">Easy: 4 x 2</string>
+    <string name="medium">Medium: 6 x 3</string>
+    <string name="hard">Hard: 6 x 4</string>
+
+    <string name="easyPairs">Pairs: 0 / 4</string>
+    <string name="mediumPairs">Pairs: 0 / 9</string>
+    <string name="hardPairs">Pairs: 0 / 12</string>
+
+    <string name="you_won">You won! Congratulations!</string>
+    <string name="you_already_won">You already won!</string>
+    <string name="invalid_move">Invalid move!</string>
+
+    <string name="choose_pictures_placeholder">Choose pictures</string>
+    <string name="choose_pictures">Choose pictures (%d / %d)</string>
+
+    <string name="permission_denied_message">In order to create a custom game, you need to provide access to your photos.</string>
+    <string name="name_already_exists">Name already taken!</string>
+    <string name="game_already_exists">A game already exists with the name \'%s\'. Please choose another name.</string>
+    <string name="image_upload_failure">Failed to upload image. Please try again.</string>
+    <string name="game_creation_failure">Failed game creation. Please try again.</string>
+    <string name="game_creation_success">Upload complete! Let\'s play your game \'%s\'!</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_choose_new_size">Choose new size</string>
+    <string name="menu_create_custom_game">Create custom game</string>
+    <string name="menu_download_custom_game">Download custom game</string>
+
+    <string name="game_name_title">Enter game name</string>
+    <string name="game_name_placeholder">Game name (example: \'panda_fun\')</string>
+    <string name="save_text">Save</string>
+
+    <string name="image_card">Memory card</string>
+
+    <string name="found_match" >Found a match! Num pairs found</string>
+
+    <string name="saving_error_exception">Encountered error while saving memory game.</string>
+    <string name="game_creation_exception" translatable="false">Exception with game creation.</string>
+    <string name="custom_game_exception" translatable="false">Got null custom game from CreateActivity!</string>
+    <string name="invalid_game_exception" translatable="false">Invalid custom game data from Firestore!</string>
+    <string name="failure_game_exception" translatable="false">Exception when retrieving game!</string>
+</resources>
